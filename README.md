@@ -9,6 +9,9 @@
     為了讓左右方向鍵按下去能夠移動 球拍 ，<br />
     CollisionBallGame類別 有 實作 KeyListener介面，<br />
     覆寫 keyPressed（鍵盤按下去的事件）方法、keyReleased（放開鍵盤事件）方法以及在JFrame註冊鍵盤監聽器，去監聽鍵盤動作的相關event。<br />
+    <br />
+    <br />
+    感謝「高進」跟「Kuan-Wei Liu （Will）」幫我除錯及提供改進的建議。<br />
 </p>
 <br />
 
